@@ -393,8 +393,8 @@
 
 | Canal | M3U8 | Web | Logo | EPG ID | Info |
 | - | - | - | - | - | - |
-| TV Rioja | [m3u8](http://teledifusion.tv/rioja/rioja/master.m3u8) | [web](http://www.tvr.es/directo/) | [logo](https://graph.facebook.com/tvrtelevision/picture?width=320&height=320) | TVR.TDTChannelsEPG | - |
-| Popular TV La Rioja | [m3u8](https://live.vimeocdn.com/1569168790-0x88a43c7fe857571fea5dfd352188bc530b0dbcf7/f2c828c5-ea64-49bc-90bd-fd266f2bc4de/chunklist_b416000.m3u8) | [web](http://www.populartvlarioja.com/directo/) | [logo](https://graph.facebook.com/PopularTvLaRioja/picture?width=320&height=320) | - | - |
+| TV Rioja | [m3u8](http://teledifusion.tv/rioja/rioja/master.m3u8) | [web](http://www.tvr.es/directo/) | [logo](http://www.tvr.es/wp-content/uploads/2014/12/logo_transparente_arbol_navidad1.png) | TVR.TDTChannelsEPG | - |
+| Popular TV La Rioja | (https://youtu.be/wWeSEqWJGUw) | [web](http://www.populartvlarioja.com/directo/) | [logo](https://graph.facebook.com/PopularTvLaRioja/picture?width=320&height=320) | - | - |
 
 ### Madrid
 
